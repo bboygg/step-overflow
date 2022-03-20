@@ -39,6 +39,13 @@ As a user:
 - [ ] I want to logout of the application
 
 
+## Technical Specifications
+- WordPress
+- HTML
+- CSS
+- Any database of your choosing (Korean Only - cafe 24, Gloabl - AWS)
+- Tests are plus, but you're QA engineer! Let's try it man 
+
 
 ### Reference 📚
 
