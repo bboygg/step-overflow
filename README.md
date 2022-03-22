@@ -49,5 +49,10 @@ As a user:
 
 ### Reference 📚
 
-https://github.com/steezyinc/senior-coding-challenge/blob/master/README.md
-https://stackoverflow.com/
+- https://github.com/steezyinc/senior-coding-challenge/blob/master/README.md
+- https://stackoverflow.com/
+- https://www.steezy.co/
+- https://www.reddit.com/
+- http://stormdance.de/
+- https://www.sorahyang.com/
+- https://bboyrankingz.com/#/
