@@ -47,6 +47,17 @@ As a user:
 - Tests are plus, but you're QA engineer! Let's try it man 
 
 
+
+
+## ⏲️ Project Timeline
+
+- Learn ![Wordpress Tutorial](https://www.youtube.com/watch?v=IPo71JPKUmg&ab_channel=freeCodeCamp.org) until May 7, 2022
+- Development until May 22, 2022
+- QA period until May 28,2022
+- Launch MVP at May 29, 2022
+
+
+
 ### Reference 📚
 
 - https://github.com/steezyinc/senior-coding-challenge/blob/master/README.md
