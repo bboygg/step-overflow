@@ -40,7 +40,7 @@ As a user:
 
 
 ## Technical Specifications
-- WordPress
+- Python Flask
 - HTML
 - CSS
 - Any database of your choosing (Korean Only - cafe 24, Gloabl - AWS)
